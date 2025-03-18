@@ -1,0 +1,21 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "description": "3D Endless Runner Game",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.13.10",
+    "@types/three": "^0.174.0",
+    "three": "^0.174.0",
+    "typescript": "^5.8.2",
+    "vite": "^6.2.2"
+  }
+}
